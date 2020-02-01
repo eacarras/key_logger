@@ -1,3 +1,3 @@
 #!/usr/bin/
 
-nohup python3 src/main/logger.py > key_logs.log &
+nohup python3 src/main/logger.py > src/utils/key_logs.log &
